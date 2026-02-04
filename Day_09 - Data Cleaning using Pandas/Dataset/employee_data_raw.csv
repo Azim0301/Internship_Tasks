@@ -1,0 +1,10 @@
+EmpID,Name,Age,Gender,Department,Salary,Experience,JoinDate
+101,Amit,25,M,IT,50000,2,2019-06-12
+102,Neha,,F,HR,45000,3,2020-01-15
+103,Ravi,28,M,IT,50000,3,2018-09-10
+104,Pooja,30,F,Finance,,5,2017-03-25
+105,Karan,27,M,IT,52000,2,2019-06-12
+105,Karan,27,M,IT,52000,2,2019-06-12
+106,Anjali,29,F,HR,48000,,2021-07-19
+107,Sunil,thirty,M,Finance,60000,7,2016-11-05
+108,Meena,26,F,,47000,2,2020-08-30
